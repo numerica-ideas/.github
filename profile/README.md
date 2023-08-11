@@ -14,7 +14,7 @@
 
 <table><tr><td valign="top" width="50%">
 
-## <a href="https://www.youtube.com/@numericaideas"><img src="https://cdn.worldvectorlogo.com/logos/youtube-icon.svg" title="NumericaIdeas YouTube Channel" alt="NumericaIdeas YouTube Channel" width="30"/> </a>   Latest YouTube Videos      
+## <a href="https://www.youtube.com/@numericaideas/channels?sub_confirmation=1"><img src="https://cdn.worldvectorlogo.com/logos/youtube-icon.svg" title="NumericaIdeas YouTube Channel" alt="NumericaIdeas YouTube Channel" width="30"/> </a>   Latest YouTube Videos      
  
 <!-- YOUTUBE-VIDEOS-LIST:START -->
 - [Lift And Shift Cloud Migration of Spring Boot App Using AWS ElasticBeanstalk | Part 2 | Scalability](https://www.youtube.com/watch?v=KHOxmHL5USI)
@@ -26,7 +26,7 @@
  
 </td><td valign="top" width="50%">
 
-## <a href="https://blog.numericaideas.com/author/dassiorleando"><img src="https://avatars.githubusercontent.com/u/84835921?s=48&v=4" title="NumericaIdeas" alt="NumericaIdeas" width="25"/></a>   Latest Articles on n-i.cm     
+## <a href="https://blog.numericaideas.com"><img src="https://avatars.githubusercontent.com/u/84835921?s=48&v=4" title="NumericaIdeas" alt="NumericaIdeas" width="25"/></a>   Latest Articles on n-i.cm     
 <!-- TECH-POSTS-LIST:START -->
 - [Docker Init: Quickly Dockerizing NodeJS Application](https://blog.numericaideas.com/quickly-dockerizing-nodejs/)
 - [How to Change Default SSH Port on Linux](https://blog.numericaideas.com/change-default-ssh-port-linux/)
@@ -45,4 +45,4 @@
 - [Monthly Activities #0](https://news.numericaideas.com/monthly-recap-0)
 <!-- NI-NEWS-LIST:END -->
 
-Subscribe to the monthly activities newsletter at: [news.numericaideas.com](https://news.numericaideas.com)
+Subscribe to the monthly activities newsletter at: [news.numericaideas.com](https://news.numericaideas.com) ✅
