@@ -50,6 +50,7 @@
 
 ## 💡 Newsletter
 <!-- NI-NEWS-LIST:START -->
+- [Community Updates #1](https://news.numericaideas.com/community-updates-1/)
 - [Monthly Activities #2](https://news.numericaideas.com/monthly-recap-2/)
 - [Monthly Activities #1](https://news.numericaideas.com/monthly-recap-1/)
 - [Monthly Activities #0](https://news.numericaideas.com/monthly-recap-0/)
