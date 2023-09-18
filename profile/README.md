@@ -10,7 +10,11 @@
 <p align="center"><a href="https://blog.numericaideas.com">Blog</a> · <a href="https://www.youtube.com/@numericaideas/channels?sub_confirmation=1">YouTube</a> · <a href="https://discord.numericaideas.com">Discord</a> · <a href="https://github.com/numerica-ideas/community">Projects</a></p>
 <br/>
 
+[![NiPresentation](./ni-presentation.png)](https://youtu.be/6bdCyAZCUTg)
+
 [NumericaIdeas](https://numericaideas.com) is a technical community that creates opportunities for IT professionals, where you’ll secure your dream job, and indeed the group through which you can develop your hard and soft skills at your own pace.
+
+Does this speak to you? If **YES**, feel free to subscribe to our [YouTube Channel](https://www.youtube.com/@numericaideas/channels?sub_confirmation=1), register to the [Newsletter](https://news.numericaideas.com), and join our [Discord Server](https://discord.numericaideas.com) to be kept posted of new content and activities.
 
 <table><tr><td valign="top" width="50%">
 
