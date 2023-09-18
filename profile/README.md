@@ -21,6 +21,9 @@ Does this speak to you? If **YES**, feel free to subscribe to our [YouTube Chann
 ## <a href="https://www.youtube.com/@numericaideas/channels?sub_confirmation=1"><img src="https://cdn.worldvectorlogo.com/logos/youtube-icon.svg" title="NumericaIdeas YouTube Channel" alt="NumericaIdeas YouTube Channel" width="30"/> </a>   Latest YouTube Videos      
  
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [NumericaIdeas Community Updates #1](https://www.youtube.com/watch?v=va8SgEa0ssw)
+- [Built-in .env Files Support Starting from Node.js v20.6.0](https://www.youtube.com/watch?v=gnVtDbl2gpg)
+- [Lift And Shift Cloud Migration of Spring Boot to AWS ElasticBeanstalk | Part 3: GitHub Actions CI/CD](https://www.youtube.com/watch?v=TI84hpeiTZE)
 - [Meetup 02: Devenez un freelance de 1ère classe &lpar;top 3%&rpar; avec Toptal - Salomon Nghukam](https://www.youtube.com/watch?v=AmhMAQTxcGg)
 - [Lift And Shift Cloud Migration of Spring Boot App Using AWS ElasticBeanstalk | Part 2 | Scalability](https://www.youtube.com/watch?v=KHOxmHL5USI)
 - [Lift And Shift Cloud Migration of Spring Boot App Using AWS ElasticBeanstalk | Part 1 | Deployment](https://www.youtube.com/watch?v=tWQFavEJQ7c)
@@ -34,16 +37,16 @@ Does this speak to you? If **YES**, feel free to subscribe to our [YouTube Chann
 
 ## <a href="https://blog.numericaideas.com"><img src="https://avatars.githubusercontent.com/u/84835921?s=48&v=4" title="NumericaIdeas" alt="NumericaIdeas" width="25"/></a>   Latest Articles on n-i.cm     
 <!-- TECH-POSTS-LIST:START -->
+- [React Hooks to Manage Component State and Lifecycle](https://blog.numericaideas.com/react-hooks/)
+- [Spring Boot Production-Ready: Enhanced Monitoring and Management using Actuator](https://blog.numericaideas.com/spring-boot-actuator/)
+- [Built-in .env Files Support Starting from Node.js v20.6.0](https://blog.numericaideas.com/nodejs-env-files-support/)
+- [Apply SOLID Principles in a Real Angular Project](https://blog.numericaideas.com/solid-principles-in-angular-cheat-sheet/)
+- [Introduction to Terraform](https://blog.numericaideas.com/introduction-to-terraform/)
+- [Continuous Deployment of Spring Boot to AWS Elastic Beanstalk via GitHub Actions: A Step-by-Step Guide](https://blog.numericaideas.com/cd-springboot-aws-eb-github-actions/)
 - [Docker Init: Quickly Dockerizing NodeJS Application](https://blog.numericaideas.com/quickly-dockerizing-nodejs/)
 - [How to Change Default SSH Port on Linux](https://blog.numericaideas.com/change-default-ssh-port-linux/)
 - [Dockerize Spring Boot and MySQL with Docker Compose](https://blog.numericaideas.com/docker-compose-springboot-mysql/)
 - [Scalability Types in Software Architecture](https://blog.numericaideas.com/scalability-types/)
-- [Build a Serverless App with AWS Lambda, S3, DynamoDB, and Python](https://blog.numericaideas.com/aws-serverless-web-application/)
-- [Auto Scaling Group on AWS with Terraform](https://blog.numericaideas.com/auto-scaling-group-on-aws-with-terraform/)
-- [Periodic Table of DevOps Tools in 2023](https://blog.numericaideas.com/devops-periodic-table/)
-- [Spring Boot Microservices Deployment to Kubernetes with Helm via GitLab CI](https://blog.numericaideas.com/springboot-microservices-deployment-kubernetes-helm-gitlabci/)
-- [Accelerate Android App Delivery via Bitrise CI/CD Pipelines](https://blog.numericaideas.com/accelerate-android-app-delivery-via-bitrise-ci-cd-pipelines/)
-- [Deploy WordPress on a 2-Tier AWS Architecture with Terraform](https://blog.numericaideas.com/deploy-wordpress-2-tier-aws-architecture-with-terraform/)
 <!-- TECH-POSTS-LIST:END -->
 
 </td></tr></table>
@@ -52,6 +55,8 @@ Does this speak to you? If **YES**, feel free to subscribe to our [YouTube Chann
 
 ## 💡 Newsletter
 <!-- NI-NEWS-LIST:START -->
+- [Community Updates #1](https://news.numericaideas.com/community-updates-1/)
+- [Monthly Activities #2](https://news.numericaideas.com/monthly-recap-2/)
 - [Monthly Activities #1](https://news.numericaideas.com/monthly-recap-1/)
 - [Monthly Activities #0](https://news.numericaideas.com/monthly-recap-0/)
 <!-- NI-NEWS-LIST:END -->
