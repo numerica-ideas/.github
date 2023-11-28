@@ -7,14 +7,14 @@
 <h3 align="center">TECH TOPICS TO SHARPEN YOUR CLOUD AND SOFTWARE ARCHITECTURE SKILLS</h3>
 <p align="center">No hour of life is wasted that is spent gaining invaluable skills</p>
 <p align="center">"DISCOVER, LEARN, BUILD, & SHARE" 🚀</p>
-<p align="center"><a href="https://blog.numericaideas.com">Blog</a> · <a href="https://www.youtube.com/@numericaideas/channels?sub_confirmation=1">YouTube</a> · <a href="https://discord.numericaideas.com">Discord</a> · <a href="https://github.com/numerica-ideas/community">Projects</a></p>
+<p align="center"><a href="https://numericaideas.com/blog">Blog</a> · <a href="https://www.youtube.com/@numericaideas/channels?sub_confirmation=1">YouTube</a> · <a href="https://discord.numericaideas.com">Discord</a> · <a href="https://github.com/numerica-ideas/community">Projects</a></p>
 <br/>
 
 [![NiPresentation](/profile/ni-presentation.gif)](https://youtu.be/6bdCyAZCUTg)
 
 [NumericaIdeas](https://numericaideas.com) is a technical community that creates opportunities for IT professionals, where you’ll secure your dream job, and indeed the group through which you can develop your hard and soft skills at your own pace.
 
-Does this speak to you? If **YES**, feel free to subscribe to our [YouTube Channel](https://www.youtube.com/@numericaideas/channels?sub_confirmation=1), register to the [Newsletter](https://news.numericaideas.com), and join our [Discord Server](https://discord.numericaideas.com) to be kept posted of new content and activities.
+Does this speak to you? If **YES**, feel free to subscribe to our [YouTube Channel](https://www.youtube.com/@numericaideas/channels?sub_confirmation=1), register to the [Newsletter](https://numericaideas.com/blog/category/news/), and join our [Discord Server](https://discord.numericaideas.com) to be kept posted of new content and activities.
 
 <table><tr><td valign="top" width="50%">
 
@@ -39,7 +39,7 @@ Does this speak to you? If **YES**, feel free to subscribe to our [YouTube Chann
  
 </td><td valign="top" width="50%">
 
-## <a href="https://blog.numericaideas.com"><img src="https://avatars.githubusercontent.com/u/84835921?s=48&v=4" title="NumericaIdeas" alt="NumericaIdeas" width="25"/></a>   Latest Articles on n-i.cm     
+## <a href="https://numericaideas.com/blog"><img src="https://avatars.githubusercontent.com/u/84835921?s=48&v=4" title="NumericaIdeas" alt="NumericaIdeas" width="25"/></a>   Latest Articles on n-i.cm     
 <!-- TECH-POSTS-LIST:START -->
 - [Demystifying Terraform Modules](https://blog.numericaideas.com/terraform-modules/)
 - [How to Scale WordPress on AWS](https://blog.numericaideas.com/aws-scale-wordpress/)
@@ -55,7 +55,7 @@ Does this speak to you? If **YES**, feel free to subscribe to our [YouTube Chann
 
 </td></tr></table>
 
-**More tech content is available on [the blog](https://blog.numericaideas.com) and on [YouTube](https://www.youtube.com/@numericaideas/channels?sub_confirmation=1).**
+**More tech content is available on [the blog](https://numericaideas.com/blog) and on [YouTube](https://www.youtube.com/@numericaideas/channels?sub_confirmation=1).**
 
 ## 💡 Newsletter
 <!-- NI-NEWS-LIST:START -->
@@ -66,7 +66,7 @@ Does this speak to you? If **YES**, feel free to subscribe to our [YouTube Chann
 - [Monthly Activities #0](https://news.numericaideas.com/monthly-recap-0/)
 <!-- NI-NEWS-LIST:END -->
 
-Subscribe to the monthly activities newsletter at: [news.numericaideas.com](https://news.numericaideas.com) ✅
+Subscribe to the monthly activities newsletter at: [numericaideas.com/blog/category/news](https://numericaideas.com/blog/category/news) ✅
 
 ## Community Activities & Projects
 The public <a href="https://github.com/numerica-ideas/community">Community Repository</a> is accessible on GitHub.
