@@ -1,4 +1,4 @@
-<a href="https://numericaideas.com" target="blank"><img align="center" src="ni-github-banner.png" alt="numericaideas" /></a>
+<a href="https://numericaideas.com" target="blank"><img align="center" src="/profile/ni-github-banner.png" alt="numericaideas" /></a>
 
 <h3 align="center">TECH TOPICS TO SHARPEN YOUR CLOUD AND SOFTWARE ARCHITECTURE SKILLS</h3>
 <p align="center">No hour of life is wasted that is spent gaining invaluable skills</p>
