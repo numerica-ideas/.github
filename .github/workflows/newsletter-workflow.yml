@@ -19,4 +19,4 @@ jobs:
           max_post_count: 5
           readme_path: "./profile/README.md"
           comment_tag_name: "NI-NEWS-LIST"
-          feed_list: "https://numericaideas.com/blog/category/news/feed"
+          feed_list: "https://numericaideas.com/news/feed"

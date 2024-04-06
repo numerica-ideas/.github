@@ -10,7 +10,7 @@
 
 [NumericaIdeas](https://numericaideas.com) is a technical community that creates opportunities for IT professionals, where you’ll secure your dream job, and indeed the group through which you can develop your hard and soft skills at your own pace.
 
-Does this speak to you? If **YES**, feel free to subscribe to our [YouTube Channel](https://www.youtube.com/@numericaideas/channels?sub_confirmation=1), register to the [Newsletter](https://numericaideas.com/blog/category/news/), and join our [Discord Server](https://discord.numericaideas.com) to be kept posted of new content and activities.
+Does this speak to you? If **YES**, feel free to subscribe to our [YouTube Channel](https://www.youtube.com/@numericaideas/channels?sub_confirmation=1), register to the [Newsletter](https://numericaideas.com/news/), and join our [Discord Server](https://discord.numericaideas.com) to be kept posted of new content and activities.
 
 <table><tr><td valign="top" width="50%">
 
@@ -55,14 +55,14 @@ Does this speak to you? If **YES**, feel free to subscribe to our [YouTube Chann
 
 ## 💡 Newsletter
 <!-- NI-NEWS-LIST:START -->
-- [Monthly Activities #8](https://numericaideas.com/blog/monthly-activities-8/)
-- [Monthly Activities #7](https://numericaideas.com/blog/monthly-activities-7/)
-- [Monthly Activities #6](https://numericaideas.com/blog/monthly-activities-6/)
-- [Monthly Activities #5](https://numericaideas.com/blog/monthly-recap-5/)
-- [Monthly Activities #4](https://numericaideas.com/blog/monthly-recap-4/)
+- [Monthly Activities #8](https://numericaideas.com/news/monthly-recap-8/)
+- [Monthly Activities #7](https://numericaideas.com/news/monthly-recap-7/)
+- [Monthly Activities #6](https://numericaideas.com/news/monthly-recap-6/)
+- [Monthly Activities #5](https://numericaideas.com/news/monthly-recap-5/)
+- [Monthly Activities #4](https://numericaideas.com/news/monthly-recap-4/)
 <!-- NI-NEWS-LIST:END -->
 
-Subscribe to the monthly activities newsletter at: [numericaideas.com/blog/category/news](https://numericaideas.com/blog/category/news) ✅
+Subscribe to the monthly activities newsletter at: [numericaideas.com/blog/category/news](https://numericaideas.com/news) ✅
 
 ## Community Activities & Projects
 The public <a href="https://github.com/numerica-ideas/community">Community Repository</a> is accessible on GitHub.
